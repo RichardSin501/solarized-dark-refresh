@@ -1,0 +1,33 @@
+{
+  "manifest_version": 2,
+
+  "name": "Material Redesign Dark Theme",
+  "description": "A dark theme for the new Google Chrome browser design.",
+  "version": "1.6.0",
+
+  "theme": {
+    "images": {
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [ 55, 55, 55 ],
+      "frame_inactive": [ 110, 110, 110 ],
+      "frame_incognito": [ 55, 55, 55 ],
+      "frame_incognito_inactive": [ 110, 110, 110 ],
+      "toolbar": [ 80, 80, 80 ],
+      "tab_text": [ 255, 255, 255 ],
+      "tab_background_text": [ 255, 255, 255 ],
+      "bookmark_text": [ 255, 255, 255 ],
+      "ntp_background": [ 55, 55, 55 ],
+      "ntp_text": [ 255, 255, 255 ],
+      "ntp_link_underline": [ 255, 0, 0 ]
+    },
+    "tints": {
+      "buttons": [ 0, 0, 1 ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 1,
+      "ntp_background_repeat": "repeat"
+    }
+  }
+}
