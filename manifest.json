@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Material Redesign Dark Theme",
-  "description": "A dark theme for the new Google Chrome browser design.",
-  "version": "1.6.0",
+  "name": "Solarized Dark Refresh",
+  "description": "A solarized dark theme for the new Google Chrome browser design.",
+  "version": "1.0.1",
 
   "theme": {
     "images": {
