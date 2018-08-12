@@ -1,26 +1,25 @@
 {
   "manifest_version": 2,
 
-  "name": "Solarized Dark Refresh",
-  "description": "A solarized dark theme for the new Google Chrome browser design.",
-  "version": "1.0.2",
+  "name": "Solarized Dark Refresh Theme",
+  "description": "Solarized Dark theme for the new Google Chrome design",
+  "version": "1.4.0",
 
   "theme": {
     "images": {
       "theme_ntp_background": "images/theme_ntp_background.png"
     },
     "colors": {
-      "frame": [ 55, 55, 55 ],
-      "frame_inactive": [ 110, 110, 110 ],
-      "frame_incognito": [ 55, 55, 55 ],
-      "frame_incognito_inactive": [ 110, 110, 110 ],
-      "toolbar": [ 80, 80, 80 ],
-      "tab_text": [ 255, 255, 255 ],
-      "tab_background_text": [ 255, 255, 255 ],
-      "bookmark_text": [ 255, 255, 255 ],
-      "ntp_background": [ 55, 55, 55 ],
-      "ntp_text": [ 255, 255, 255 ],
-      "ntp_link_underline": [ 255, 0, 0 ]
+      "frame": [ 0, 44, 56 ],
+      "frame_inactive": [ 0, 83, 106 ],
+      "frame_incognito": [ 0, 44, 56 ],
+      "frame_incognito_inactive": [ 0, 83, 106 ],
+      "toolbar": [ 0, 70, 88 ],
+      "tab_text": [ 195, 215, 217 ],
+      "tab_background_text": [ 195, 215, 217 ],
+      "bookmark_text": [ 195, 215, 217 ],
+      "ntp_background": [ 0, 44, 56 ],
+      "ntp_text": [ 42, 42, 42 ]
     },
     "tints": {
       "buttons": [ 0, 0, 1 ]
